@@ -1,1 +1,1 @@
-<img src="nullception.webp">
+<img alt="hello">
