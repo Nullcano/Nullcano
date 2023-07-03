@@ -1,4 +1,4 @@
 <img src="nullcommit-dark.png#gh-dark-mode-only">
 <img src="nullcommit-light.png#gh-light-mode-only">
 
-<img src="https://giphy.com/embed/l378tDpJj0ATDZgBy" width="480" height="480">
+<img src="https://media.giphy.com/media/l378tDpJj0ATDZgBy/giphy.gif" />
