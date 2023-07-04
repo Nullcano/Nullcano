@@ -1,12 +1,8 @@
 ---
----
----
-
 <img src="nullcommit-dark.png#gh-dark-mode-only">
 <img src="nullcommit-light.png#gh-light-mode-only">
 
 ---
-
 [![](https://img.shields.io/badge/-@nullcano-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/nullcano)
 [![](https://img.shields.io/badge/-@nullcano-%23000000?style=flat-square&logo=codepen)](https://codepen.io/nullcano)
 [![](https://img.shields.io/website?color=222&style=flat-square&up_message=nullca.no&url=https%3A%2F%2Fnullca.no)](https://nullca.no)
@@ -20,9 +16,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 --- 
-
 ![Nullcano's github stats](https://github-readme-stats.vercel.app/api?username=nullcano&show_icons=true&theme=dracula)
 
----
----
 ---
